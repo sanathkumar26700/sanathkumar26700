@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sanath Kumar GV</h1>
+<h1 align="center">Hi 🌻, I'm Sanath Kumar GV</h1>
 <h3 align="center">A frontend developer✨</h3>
+<img align="right" src="https://github.com/sanathkumar26700/sanathkumar26700/blob/main/giphy.webp" width ="35%" height="35%">
 <br>
 
 
@@ -7,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanathkumar-portfolio.netlify.app/](https://sanathkumar-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/sanathkumar](https://dev.to/sanathkumar)
+- 📝 I have just started writing articles on [https://dev.to/sanathkumar](https://dev.to/sanathkumar)
 
 - 💬 Ask me about **CSS, JavaScript or React ;)**
 
@@ -26,12 +27,17 @@
 <h3 fontSize = "larger" align="left">Connect with me ☕</h3>
 <hr>
 <p align="left">
-- if you wanna know me as a person 👉🏻<a href="https://twitter.com/sanathkumar267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanathkumar267" height="30" width="40" /></a><br>
-- if you wanna know me as a professional 👉🏻<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanath-kumar-g-v-317206193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanath-kumar-g-v-317206193" height="30" width="40" /></a> <br>
- - if you wanna know more about my thoughts and explainations 👉🏻 <a href="https://dev.to/sanathkumar26700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanathkumar26700" height="30" width="40" /></a>
+- If you wanna know more about me as a person ➡<a href="https://twitter.com/sanathkumar267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanathkumar267" height="30" width="40" /></a><br>
+- If you wanna know more about me as a professional➡<a href="https://www.linkedin.com/in/sanath-kumar-g-v-317206193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanathkumar26700" height="30" width="40" /></a> <br>
+ - If you wanna know more about my thoughts and explainations ➡<a href="https://dev.to/sanathkumar26700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanathkumar26700" height="30" width="40" /></a><br>
+- If you wanna check out my projects, you are already here! Go check out my repos 😉 
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanathkumar26700&show_icons=true&locale=en&layout=compact" alt="sanathkumar26700" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathkumar26700&label=Profile%20views&color=0e75b6&style=flat" alt="sanathkumar26700" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanathkumar26700&show_icons=true&locale=en" alt="sanathkumar26700" /></p>
 
+![sanathkumar26700's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanathkumar26700&theme=great-gatsby&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanathkumar26700&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanathkumar26700&theme=great-gatsby&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/sanathkumar26700)  
