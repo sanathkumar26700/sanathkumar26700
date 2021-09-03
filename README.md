@@ -24,6 +24,16 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a> </p>
 <br>
+<hr>
+
+![sanathkumar26700's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanathkumar26700&theme=great-gatsby&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanathkumar26700&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanathkumar26700&theme=great-gatsby&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/sanathkumar26700)  
+<br>
 <h3 fontSize = "larger" align="left">Connect with me ☕</h3>
 <hr>
 <p align="left">
@@ -33,11 +43,3 @@
 - If you wanna check out my projects, you are already here! Go check out my repos 😉 
 </p>
 <br>
-
-![sanathkumar26700's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanathkumar26700&theme=great-gatsby&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanathkumar26700&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanathkumar26700&theme=great-gatsby&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/sanathkumar26700)  
