@@ -31,15 +31,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanathkumar26700&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanathkumar26700&theme=great-gatsby&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/sanathkumar26700)  
+ 
 <br>
-<h3 fontSize = "larger" align="left">Connect with me ☕</h3>
+<h3 fontSize = "larger" align="left">Connect here ☕</h3>
 <hr>
-<p align="left">
-- If you wanna know more about me as a person ➡<a href="https://twitter.com/sanathkumar267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanathkumar267" height="30" width="40" /></a><br>
-- If you wanna know more about me as a professional➡<a href="https://www.linkedin.com/in/sanath-kumar-g-v-317206193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanathkumar26700" height="30" width="40" /></a> <br>
- - If you wanna know more about my thoughts and explainations ➡<a href="https://dev.to/sanathkumar26700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanathkumar26700" height="30" width="40" /></a><br>
-- If you wanna check out my projects, you are already here! Go check out my repos 😉 
-</p>
+
+[![GitHub sanathkumar26700](https://img.shields.io/github/followers/sanathkumar26700?label=follow&style=social)](https://github.com/sanathkumar26700)
+
+[![Linkedin: Sanath Kumar GV ](https://img.shields.io/badge/-Sanath%20Kumar%20GV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanath-kumar-g-v-317206193)](https://www.linkedin.com/in/sanath-kumar-g-v-317206193)
+
+[![Twitter: sanathkumar267](https://img.shields.io/twitter/follow/sanathkumar267?style=social)](https://twitter.com/sanathkumar267)
+
+
+![Profile views](https://gpvc.arturio.dev/sanathkumar26700) 
+
+[![Hashnode](https://img.shields.io/badge/-@SanathKumar267-white?style=flat-square&labelColor=blue&logo=Hashnode&link=@SanathKumar267)](https://hashnode.com/@SanathKumar267)
+
+
 <br>
