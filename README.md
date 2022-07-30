@@ -3,12 +3,7 @@
 <img align="right" src="https://github.com/sanathkumar26700/sanathkumar26700/blob/main/giphy.webp" width ="35%" height="35%">
 <br>
 
-
 - 🌱 I’m currently learning **ReactJS and it's ecosystem!**
-
-- 👨‍💻 All of my projects are available at [https://sanathkumar-portfolio.netlify.app/](https://sanathkumar-portfolio.netlify.app/)
-
-- 📝 I have just started writing articles on [https://dev.to/sanathkumar](https://dev.to/sanathkumar)
 
 - 💬 Ask me about **CSS, JavaScript or React ;)**
 
@@ -22,6 +17,7 @@
   </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"width="60" height="60"/>
   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="sass" width="60" height="60" /></a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a> </p>
 <br>
 <hr>
